@@ -8,15 +8,14 @@
 
     </string-array>
 
-<string-array name="array_operators">
-<item>+</item>
-<item>-</item>
-<item>*</item>
-<item>/</item>
+    <string-array name="array_operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
 
 
-</string-array>
-
+    </string-array>
 
 
 </resources>
