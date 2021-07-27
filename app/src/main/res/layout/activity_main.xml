@@ -6,13 +6,47 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+    <Button
+        android:id="@+id/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="306dp"
+        android:layout_marginEnd="133dp"
+        android:layout_marginBottom="377dp"
+        android:text="calculate"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/txtview"
+        android:layout_width="129dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="143dp"
+        android:layout_marginTop="492dp"
+        android:layout_marginEnd="139dp"
+        android:layout_marginBottom="185dp"
+        android:text="result"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/input_radius"
+        android:layout_width="409dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="183dp"
+        android:layout_marginBottom="511dp"
+        android:ems="10"
+        android:hint="enter radius"
+        android:inputType="textPersonName"
+        android:text="Enter radius"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
