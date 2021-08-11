@@ -8,8 +8,12 @@
         <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/drawable/wrong_option_color.xml" value="0.2703125" />
         <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_main7.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_note_taking.xml" value="0.2" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_note_taking_screen2.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_note_taking_screen3.xml" value="0.24048913043478262" />
         <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_quiz.xml" value="0.24048913043478262" />
         <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_sonet_quiz.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/content_note_taking.xml" value="0.2" />
       </map>
     </option>
   </component>
