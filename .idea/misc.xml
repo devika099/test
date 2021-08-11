@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/drawable/default_option_border_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/drawable/right_option_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/drawable/wrong_option_color.xml" value="0.2703125" />
         <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_main7.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_quiz.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Devika/AndroidStudioProjects/TestDemo/app/src/main/res/layout/activity_sonet_quiz.xml" value="0.24048913043478262" />
       </map>
     </option>
   </component>
