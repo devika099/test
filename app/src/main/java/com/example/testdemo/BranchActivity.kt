@@ -10,6 +10,7 @@ class BranchActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_branch)
+
         val act_cse = findViewById<TextView>(R.id.act_cse)
 
         act_cse.setOnClickListener(View.OnClickListener {
